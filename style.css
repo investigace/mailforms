@@ -1,0 +1,29 @@
+.mailing-form-individual {
+  padding: 10px;
+  border: 2px solid #fcb900;
+  border-radius: 0;
+  width: auto;
+  display: inline-block;
+}
+
+.mailing-label {
+  width: 100%;
+  text-align: center;
+}
+
+.mailing-button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  margin-left: 10px;
+  cursor: pointer;
+  outline: none;
+  border-radius: 0;
+}
+
+.mailing-email {
+  padding: 3px 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
